@@ -1,0 +1,8 @@
+[package]
+
+name = "RustyNet"
+version = "0.0.1"
+authors = ["Benjamin Englard <benjienglard@yahoo.com>"]
+
+[dependencies]
+rand = "0.3"
